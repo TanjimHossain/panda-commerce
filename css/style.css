@@ -1,0 +1,11 @@
+.panda-bg-info{
+    background-color: #FCEAE8;
+}
+
+.warning-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #ffffff;
+    text-transform: capitalize;
+    padding: 5px 20px;
+    border: none;
+}
